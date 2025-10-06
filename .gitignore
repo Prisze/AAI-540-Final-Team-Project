@@ -210,3 +210,6 @@ Data/.DS_Store
 Data/SpotifyAudioFeaturesApril2019.csv
 Data/SpotifyAudioFeaturesNov2018.csv
 Data/SpotifyTracksDB.csv
+
+*.pkl
+*.tar.gz
